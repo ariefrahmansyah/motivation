@@ -1,12 +1,12 @@
 # Motivation
 
-A modified version of [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) Chrome Extension without the `age` label. See screenshots below.
+A modified version of [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) Chrome Extension without the `age` label. See screenshots below for the difference.
 
-**Before**
+**Before ([From the original](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj))**
 
 ![Before](/images/before.png)
 
-**After**
+**After (From this repository)**
 
 ![After](/images/after.png)
 
