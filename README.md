@@ -1,14 +1,15 @@
 # Motivation
 
-A modified version of [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) Chrome Extension without the `age` label. See screenshots below for the difference.
+A modified version of [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) Chrome Extension with following changes:
 
-**Before ([From the original](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj))**
+1. Remove the `age` label
+2. Sync theme with system
 
-![Before](/images/before.png)
+## Screenshots
 
-**After (From this repository)**
+![Light](/images/light.png)
 
-![After](/images/after.png)
+![Dark](/images/dark.png)
 
 ## How to install
 
